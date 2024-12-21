@@ -1,1 +1,1 @@
-# Working application is in devops-task-2-main
+# Working application is in devops-task-2-main folder
